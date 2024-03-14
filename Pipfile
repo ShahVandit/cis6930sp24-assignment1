@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+spacy = "*"
+nltk = "*"
+en-core-web-md = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.6.0/en_core_web_md-3.6.0-py3-none-any.whl"}
+numpy = "*"
+pytest = "*"
+transformers = "*"
+pyap="*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
