@@ -1,4 +1,4 @@
-# Censoror by Vandit Shah(5034-1980)
+# Censoror by Vandit Shah
 ## Overview of the Text Censorship Tool
 
 The Text Censorship Tool is a powerful Python script designed to help users protect privacy and comply with data protection regulations by automatically detecting and censoring sensitive information within text files. It is capable of processing a large volume of data efficiently, making it ideal for both individual and organizational use.
